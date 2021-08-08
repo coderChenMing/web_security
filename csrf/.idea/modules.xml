@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/csrf.iml" filepath="$PROJECT_DIR$/.idea/csrf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_jsp/itmayiedu_days28_springboot_jsp.iml" filepath="$PROJECT_DIR$/springboot_jsp/itmayiedu_days28_springboot_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web/springboot-web.iml" filepath="$PROJECT_DIR$/springboot-web/springboot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_jsp/springboot_jsp.iml" filepath="$PROJECT_DIR$/springboot_jsp/springboot_jsp.iml" />
+    </modules>
+  </component>
+</project>
